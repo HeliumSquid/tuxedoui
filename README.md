@@ -1,4 +1,4 @@
-# tuxedoui
+# Tuxedo UI
 
 ### Sidebar
 ```
