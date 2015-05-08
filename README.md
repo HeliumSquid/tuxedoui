@@ -1,5 +1,13 @@
 # Tuxedo UI
 
+### Buttons
+```
+<div class="button raised">
+            <div class="center" fit>Contact</div>
+            <paper-ripple fit></paper-ripple>
+          </div>
+```
+
 ### Sidebar
 ```
 <!--Sidebar-->
