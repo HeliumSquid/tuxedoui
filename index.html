@@ -62,8 +62,17 @@
 <section class="three" id="portfolio">
 
 </section>
-<script src="//code.jquery.com/jquery-1.11.3.min.js"></script
-<link rel="scripts" href="scripts/js-scroll">
+<link rel='stylesheet' href='//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/themes/smoothness/jquery-ui.css'>
+<script>
+    window.console = window.console || function(t) {};
+    window.open = function(){ console.log('window.open is disabled.'); };
+    window.print = function(){ console.log('window.print is disabled.'); };
+    // Support hover state for mobile.
+    if (false) {
+      window.ontouchstart = function(){};
+    }
+  </script>
+
   </body>
 </html>
 
