@@ -1,6 +1,6 @@
 # tuxedoui
 
-### Nav
+### Sidebar
 ```
 <!--Sidebar-->
 <input type="checkbox" id="sbtoggle" name="" value="">
