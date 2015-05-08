@@ -1,11 +1,29 @@
 # Tuxedo UI
 
 ### Buttons
+Button Base
 ```
 <div class="button raised">
-            <div class="center" fit>Contact</div>
-            <paper-ripple fit></paper-ripple>
-          </div>
+    <div class="center">
+        Contact
+    </div>
+</div>
+```
+Button Blue
+```
+<div class="button raised blue">
+    <div class="center">
+        Contact
+    </div>
+</div>
+```
+Button Green
+```
+<div class="button raised green">
+    <div class="center">
+        Contact
+    </div>
+</div>
 ```
 
 ### Sidebar
