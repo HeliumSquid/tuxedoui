@@ -196,3 +196,11 @@ section {
 .two {
   background-color:#eee;
 }
+
+.four {
+  background: url(https://ununsplash.imgix.net/photo-1421757295538-9c80958e75b0?q=75&fm=jpg&w=1080&fit=max&s=18cd41e2c732498c0e3d3a47ceecc539) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
