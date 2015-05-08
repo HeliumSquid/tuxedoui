@@ -9,7 +9,7 @@
   <div class="sidebar">
     <ul class="js-scroll">
       <li>
-        <a href="#home" class="waves">
+        <a href="#home">
           <div class="button raised">
             <div class="center" fit>Home</div>
             <paper-ripple fit></paper-ripple>
@@ -17,7 +17,7 @@
         </a>
       </li>
       <li>
-        <a href="#about" class="waves">
+        <a href="#about">
           <div class="button raised">
             <div class="center" fit>About</div>
             <paper-ripple fit></paper-ripple>
@@ -25,7 +25,7 @@
         </a>
       </li>
       <li>
-        <a href="#portfolio" class="waves">
+        <a href="#portfolio">
           <div class="button raised">
             <div class="center" fit>Portfolio</div>
             <paper-ripple fit></paper-ripple>
@@ -33,7 +33,7 @@
         </a>
       </li>
       <li>
-        <a href="#contact" class="waves">
+        <a href="#contact">
           <div class="button raised">
             <div class="center" fit>Contact</div>
             <paper-ripple fit></paper-ripple>
