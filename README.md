@@ -30,6 +30,9 @@ Button Green
 ```
 
 ### Sidebar
+
+![alt text](http://i.imgur.com/aK1GfxB.png)
+
 ```
 <!--Sidebar-->
 <input type="checkbox" id="sbtoggle" name="" value="">
