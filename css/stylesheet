@@ -1,3 +1,12 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  font-family: "Lato", sans-serif;
+  background: none;
+}
+
+/*///////////////////Sidebar//////////////////////////*/
 .sidebar a {
   text-decoration: none;
   color: #fff;
@@ -122,6 +131,7 @@
 #sbtoggle:checked + .page-wrap .page-content {
   padding-left: 180px;
 }
+
 /*///////////////////Button///////////////////////*/
 
 .button {
