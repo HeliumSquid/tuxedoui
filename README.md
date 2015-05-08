@@ -1,6 +1,9 @@
 # Tuxedo UI
 
 ### Buttons
+
+![alt text](http://i.imgur.com/5MO7giB.png)
+
 Button Base
 ```
 <div class="button raised">
