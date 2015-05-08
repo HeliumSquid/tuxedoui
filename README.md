@@ -1,7 +1,7 @@
 # tuxedoui
 
-# Nav
-
+### Nav
+```
 <!--Sidebar-->
 <input type="checkbox" id="sbtoggle" name="" value="">
 <div class="page-wrap">
@@ -45,3 +45,4 @@
 </div>
 <div class="page-content">
 </div>
+```
