@@ -44,32 +44,28 @@ Button Green
       <li>
         <a href="#home">
           <div class="button raised">
-            <div class="center" fit>Home</div>
-            <paper-ripple fit></paper-ripple>
+            <div class="center" fit>Home</div>         
           </div>
         </a>
       </li>
       <li>
         <a href="#about">
           <div class="button raised">
-            <div class="center" fit>About</div>
-            <paper-ripple fit></paper-ripple>
+            <div class="center" fit>About</div>            
           </div>
         </a>
       </li>
       <li>
         <a href="#portfolio">
           <div class="button raised">
-            <div class="center" fit>Portfolio</div>
-            <paper-ripple fit></paper-ripple>
+            <div class="center" fit>Portfolio</div>           
           </div>
         </a>
       </li>
       <li>
         <a href="#contact">
           <div class="button raised">
-            <div class="center" fit>Contact</div>
-            <paper-ripple fit></paper-ripple>
+            <div class="center" fit>Contact</div>            
           </div>
         </a>
       </li>
@@ -77,5 +73,6 @@ Button Green
   </div>
 </div>
 <div class="page-content">
+...
 </div>
 ```
