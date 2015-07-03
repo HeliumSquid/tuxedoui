@@ -1,6 +1,8 @@
 # Tuxedo UI 
 ![alt text](http://i.imgur.com/TJl8hVE.png)
 
+Clone the repo: `git clone https://github.com/HeliumSquid/tuxedoui`.
+
 ### Buttons
 
 ![alt text](http://i.imgur.com/5MO7giB.png)
